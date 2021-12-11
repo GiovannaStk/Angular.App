@@ -1,0 +1,23 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "geladeira",
+      "price": 5.89,
+      "discription": "geladeira foda"
+    },
+    {
+      "id": 2,
+      "name": "frango",
+      "price": 6.89,
+      "discription": "hmm franguinho"
+    },
+    {
+      "id": 3,
+      "name": "pastel",
+      "price": 1.20,
+      "discription": "pastel de flango"
+     
+    }
+  ]
+}
