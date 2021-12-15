@@ -1,3 +1,6 @@
+
+import { HeaderService } from './../../components/template/header/header.service';
+import { Router } from '@angular/router';
 import { Component, OnInit } from '@angular/core';
 
 @Component({
@@ -7,7 +10,14 @@ import { Component, OnInit } from '@angular/core';
 })
 export class AboutMeComponent implements OnInit {
 
-  constructor() { }
+  constructor(private route: Router, private headerService: HeaderService) {
+    headerService.headerData = {
+      title: 'About Me',
+      icon: 'favorite',
+      routeUrl: '/'
+    }
+
+   }
 
   ngOnInit(): void {
   }

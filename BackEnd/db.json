@@ -1,23 +1,34 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "geladeira",
-      "price": 5.89,
-      "discription": "geladeira foda"
+      "name": " hamburguer",
+      "price": "055",
+      "discription": "Celular dahora",
+      "id": 1
     },
     {
-      "id": 2,
-      "name": "frango",
-      "price": 6.89,
-      "discription": "hmm franguinho"
+      "name": "pente",
+      "price": "5.50",
+      "discription": "Pente para cabelo cacheado ",
+      "id": 2
     },
     {
-      "id": 3,
-      "name": "pastel",
-      "price": 1.20,
-      "discription": "pastel de flango"
-     
+      "name": "Esmalte",
+      "price": "2.50",
+      "discription": "Esmalte vermelho(15g)",
+      "id": 3
+    },
+    {
+      "name": "algodão",
+      "price": "5.00",
+      "discription": "Pacot com 50 bolinhas de algodão multiuso",
+      "id": 4
+    },
+    {
+      "name": "chiclete",
+      "price": "03.80",
+      "discription": "Pacote contém 20 chicletes de sabores sortidos ",
+      "id": 5
     }
   ]
 }
